@@ -120,6 +120,10 @@ En el siguiente video se puede ver el funcionamiento del programa que ha realiza
 
 https://youtu.be/7AFtAWkLoKM
 
+y lo podés probar aquí: 
+https://noeliaorsini.github.io/TABLAS-DE-MULTIPLICAR/
+
+
 ## Agradecimientos
 
 Queremos agradecer a ChatGPT por la asistencia brindada en la creación de este proyecto. Gracias a su apoyo, hemos aprendido a utilizar la nueva extensión CodeViz y mejorar tanto la estética como la funcionalidad de nuestro sistema, como la implementación del puntaje y otros detalles importantes. Este proyecto ha sido una excelente forma de aprender y aplicar lo que hemos descubierto en estos 6 meses de exploración en el mundo de la tecnología.
