@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: linear-gradient(to bottom, #6a0dad, #0080ff, #ff4500); /* Morado, celeste, naranja */
+  color: #fff;
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 38px;
+  margin-top: 70px; /* Aumentado para bajar el título unos 2 cm (aproximadamente 70px) */
+  text-shadow: 2px 2px 4px #000000;
+}
+
+button {
+  padding: 12px 25px;
+  margin: 15px;
+  background-color: #5e17eb; /* Morado intenso */
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background-color 0.3s, transform 0.2s;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+button:hover {
+  background-color: #7f32ff; /* Más claro al pasar el mouse */
+  transform: scale(1.05);
+}
+
+input {
+  padding: 10px;
+  margin: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid #ccc;
+  background-color: #fff;
+}
+
+footer {
+  background-color: #333;
+  padding: 12px;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+  margin-top: 30px; /* Bajar un poco el footer para que no esté pegado */
+}
+
+footer p {
+  font-size: 20px;
+  margin: 0;
+  text-shadow: 1px 1px 2px #000;
+}
